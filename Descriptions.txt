@@ -1,0 +1,17 @@
+Master create the room will generate the obstacles
+Client will not
+
+Master will destroy the obstacles after disconnecting
+Client will only destroy the player model prefab
+
+we generate the obstacles by 4 different types and randomly initialize their location and combination by code.
+
+How to play:
+Movement: use arm swinging in order to navigate over the scene. To turn use head movement and point in desired direction.
+
+Bonus:
+We have implemented jumping to avoid obstacles. To jump: put your hands up (around the hmd).
+
+To start the game: press the button X on Oculus, Menu on Vive.
+To reset the starting position: press the button A on Oculus, Menu on Vive.
+To jump: put your hands up (around the hmd).
